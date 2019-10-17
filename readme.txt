@@ -1,0 +1,1 @@
+用unity中自带的KeywordRecognizer实现的简单语音控制demo
